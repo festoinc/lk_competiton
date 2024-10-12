@@ -30,6 +30,8 @@
 
 ![image](https://github.com/user-attachments/assets/0c2c9f55-aa75-4005-99ce-c85d47abad9f)
 
-# Distribution chart lkz 10тис ітерацій 
+
+
+# Distribution chart для 10тис ітерацій 
 
 ![image](https://github.com/user-attachments/assets/9fc98893-314e-4fdd-b295-f301b76c3312)
